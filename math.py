@@ -1,3 +1,6 @@
+#RECODE BOLEH TAPI JANGAN NGACO!!
+#Gunakan Tools ini untuk orang Bego!!
+#Belajar itu Mudah!!
 m = '\033[91m'
 h = '\033[92m'
 k = '\033[93m'

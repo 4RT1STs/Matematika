@@ -19,7 +19,7 @@ def enter():
 
 banner = m + """┌┬┐┌─┐┌┬┐┬ ┬┌─┐┌─┐┬ ┬┌┐┌┌┬┐┌─┐┬─┐
 │││├─┤ │ ├─┤│  │ ││ ││││ │ ├┤ ├┬┘
-┴ ┴┴ ┴ ┴ ┴ ┴└─┘└─┘└─┘┘└┘ ┴ └─┘┴└─""" + p + "\n		Version : Remake 0.1\n		Author By : Maulana S.A\n\n"
+┴ ┴┴ ┴ ┴ ┴ ┴└─┘└─┘└─┘┘└┘ ┴ └─┘┴└─""" + p + "\n		Version   : Remake 0.1\n		Author By : Maulana S.A\n\n"
 
 def pangkat():
 	os.system('clear')

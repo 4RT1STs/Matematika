@@ -219,4 +219,4 @@ except:
 	time.sleep(1)
 	print("   [!] Memulai Ulang Program")
 	time.sleep(0.5)
-	os.system('python mathC.py')
+	os.system('python math.py')
